@@ -1,2 +1,2 @@
 # Collaborative-GitHub-Workflow
-## Git Best Practices
+the git of hub workflows are truly colab-orative
